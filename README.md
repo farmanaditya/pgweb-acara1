@@ -7,4 +7,4 @@ NIM: 22/393937/SV/20758
 Kelas: PGWEB A  
 Avatar: 
 
-<img src="image/icon.png" width="100>
+<img src="image/icon.png" width="100">

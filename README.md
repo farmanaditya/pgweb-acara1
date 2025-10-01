@@ -2,8 +2,7 @@
 Perencanaan produk web GIS dan Git  
 Pemrograman Geospasial Web  
 
-Nama: Farmana Ditya Alya Safitri  
-NIM: 22/393937/SV/20758  
+Nama: Farmana Ditya Alya  
 Kelas: PGWEB A  
 Avatar: 
 
